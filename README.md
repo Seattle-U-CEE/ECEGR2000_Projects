@@ -4,10 +4,10 @@ This repository includes code that can be used to interact with the devices in y
 ### The devices in the kit include:
 | [2x16 LCD Display](./2x16-lcd-display) | ![enter image description here](https://cdn-shop.adafruit.com/970x728/398-11.jpg) |
 |--|--|
-|4x3 keypad| ![4](https://cdn-shop.adafruit.com/970x728/3845-00.jpg) |
+|[4x3 keypad]((./4x3_keypad)| ![4](https://cdn-shop.adafruit.com/970x728/3845-00.jpg) |
 |Membrane 1x4 keypad|![enter image description here](https://cdn-shop.adafruit.com/970x728/1332-00.jpg)|
-|Envirophat Light & Pressure Sensor|![--](https://cdn-shop.adafruit.com/970x728/3194-00.jpg)|
-|HC-SRO4 Ultrasonic Transceiver|![--](https://cdn-shop.adafruit.com/970x728/4007-00.jpg)|
+|[Envirophat Light & Pressure Sensor](./envirophat)|![--](https://cdn-shop.adafruit.com/970x728/3194-00.jpg)|
+|[HC-SRO4 Ultrasonic Transceiver](./ultrasonic)|![--](https://cdn-shop.adafruit.com/970x728/4007-00.jpg)|
 |ADS 1115 Analog to Digital Converter|![--](https://m.media-amazon.com/images/I/71h+u3Mg9SL._SX522_.jpg)|
 |INA219 DC Current Monitor|![--](https://cdn-shop.adafruit.com/970x728/904-09.jpg)|
 |1x5 Matrix Array 5 Key Membrane Keypad|![--](https://m.media-amazon.com/images/I/41W4aLRbgaL._SX522_.jpg)|
