@@ -4,7 +4,7 @@ This repository includes code that can be used to interact with the devices in y
 ### The devices in the kit include:
 | [2x16 LCD Display](./2x16-lcd-display) | ![enter image description here](https://cdn-shop.adafruit.com/970x728/398-11.jpg) |
 |--|--|
-|[4x3 keypad]((./4x3_keypad)| ![4](https://cdn-shop.adafruit.com/970x728/3845-00.jpg) |
+|[4x3 keypad](./4x3_keypad)| ![4](https://cdn-shop.adafruit.com/970x728/3845-00.jpg) |
 |Membrane 1x4 keypad|![enter image description here](https://cdn-shop.adafruit.com/970x728/1332-00.jpg)|
 |[Envirophat Light & Pressure Sensor](./envirophat)|![--](https://cdn-shop.adafruit.com/970x728/3194-00.jpg)|
 |[HC-SRO4 Ultrasonic Transceiver](./ultrasonic)|![--](https://cdn-shop.adafruit.com/970x728/4007-00.jpg)|
