@@ -28,7 +28,7 @@ This repository includes code that can be used to interact with the devices in y
 |MS5803 Submersible Pressure Sensor<br>SEE [MS5803 Library here](https://github.com/NickCrews/ms5803py)|<img src = "https://github.com/jwlauer/CTD/raw/master/hardware/MS5803/MS5803_board.PNG" width = 150> |
 |Vegetronix Soil Moisture Sensor <br>Interface using ADS1115|<img src = "https://www.vegetronix.com/Products/VH400/VH400-Soil-Moisture-Sensor-Rock.jpg" width = 150> |
 |Flex Sensor<br>Interface using ADS1115|<img src = "https://www.sparkfun.com/media/catalog/product/cache/a793f13fd3d678cea13d28206895ba0c/1/0/10264-01.jpg" width = 150> |
-|Force Sensitive Resistor<>Interface using ADS1115)|<img src = "https://www.sparkfun.com/media/catalog/product/cache/a793f13fd3d678cea13d28206895ba0c/0/9/09673-01.jpg" width = 150> |
+|Force Sensitive Resistor<br>Interface using ADS1115)|<img src = "https://www.sparkfun.com/media/catalog/product/cache/a793f13fd3d678cea13d28206895ba0c/0/9/09673-01.jpg" width = 150> |
 |Rainwise Tipping Bucket Rain Gage<br>Read tips using [GPIOZero Button Module](https://gpiozero.readthedocs.io/en/stable/api_input.html#button)|<img src = "https://rainwise.com/media/catalog/product/w/i/wired-rain-gauge.jpg" width = 150> |
 |Honewell HPMA115S0 Particulate Sensor<br>See [PySerial library](https://pyserial.readthedocs.io/en/latest/) and [Medium article](https://medium.com/@pysquad/explore-pyserial-serial-communication-libraries-e79b32a6dfe7)|<img src = "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/1/300/307/184/MFG_HPMA115SO-XXX_sml.jpg" width = 150> |
 |Pololu DRV8838 Motor Driver|<img src = "https://a.pololu-files.com/picture/0J5750.600x480.jpg?89d99042898e5c76047944f516d0b9d4" width = 150> |
