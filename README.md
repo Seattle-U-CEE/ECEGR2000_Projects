@@ -17,7 +17,7 @@ This repository includes code that can be used to interact with the devices in y
 |ADS 1115 Analog to Digital Converter<br>This can be used to measure voltage/resistance from analog sensors<br>see [Adafruit library/tutorial for ADS1115](https://learn.adafruit.com/raspberry-pi-analog-to-digital-converters/ads1015-slash-ads1115)<br>Useful for interfacing w/ LDRs, Flex Sensors, and Force Sensitive Resistors|<img src = "https://m.media-amazon.com/images/I/71h+u3Mg9SL._SX522_.jpg" width = 150>|
 |INA219 DC Current Monitor|<img src = "https://cdn-shop.adafruit.com/970x728/904-09.jpg" width = 150>|
 |1x5 Matrix Array 5 Key Membrane Keypad|<img src = "https://m.media-amazon.com/images/I/41W4aLRbgaL._SX522_.jpg" width = 150>|
-|Slide Potentiometer|<img src = "https://m.media-amazon.com/images/I/41DPCsSYZpL._SX522_.jpg" width = 150>|
+|Slide Potentiometer (See ADS1115)|<img src = "https://m.media-amazon.com/images/I/41DPCsSYZpL._SX522_.jpg" width = 150>|
 |Buzzer<br>See [GPIOZero Buzzer Module](https://gpiozero.readthedocs.io/en/stable/api_output.html#buzzer)|<img src = "https://cdn-shop.adafruit.com/970x728/160-01.jpg" width = 150>|
 
 ### Devices that are available upon request include:
@@ -29,7 +29,7 @@ This repository includes code that can be used to interact with the devices in y
 |Vegetronix Soil Moisture Sensor|<img src = "https://www.vegetronix.com/Products/VH400/VH400-Soil-Moisture-Sensor-Rock.jpg" width = 150> |
 |Flex Sensor (See ADS1115)|<img src = "https://www.sparkfun.com/media/catalog/product/cache/a793f13fd3d678cea13d28206895ba0c/1/0/10264-01.jpg" width = 150> |
 |Force Sensitive Resistor (See ADS1115)|<img src = "https://www.sparkfun.com/media/catalog/product/cache/a793f13fd3d678cea13d28206895ba0c/0/9/09673-01.jpg" width = 150> |
-|Rainwise Tipping Bucket Rain Gage<>Can read tips using [GPIOZero Button Module](https://gpiozero.readthedocs.io/en/stable/api_input.html#button)|<img src = "https://rainwise.com/media/catalog/product/w/i/wired-rain-gauge.jpg" width = 150> |
+|Rainwise Tipping Bucket Rain Gage<br>Can read tips using [GPIOZero Button Module](https://gpiozero.readthedocs.io/en/stable/api_input.html#button)|<img src = "https://rainwise.com/media/catalog/product/w/i/wired-rain-gauge.jpg" width = 150> |
 |Honewell HPMA115S0 Particulate Sensor<br>See [PySerial library](https://pyserial.readthedocs.io/en/latest/) and [Medium article](https://medium.com/@pysquad/explore-pyserial-serial-communication-libraries-e79b32a6dfe7)|<img src = "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/1/300/307/184/MFG_HPMA115SO-XXX_sml.jpg" width = 150> |
 |Pololu DRV8838 Motor Driver|<img src = "https://a.pololu-files.com/picture/0J5750.600x480.jpg?89d99042898e5c76047944f516d0b9d4" width = 150> |
 |Various Small DC Motors and Pumps<br>See [GPIOZero Motor Module](https://gpiozero.readthedocs.io/en/stable/api_output.html#motor)|<img src = "https://m.media-amazon.com/images/I/616oLIvsHJL._AC_SX679_.jpg" width = 150> |
