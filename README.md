@@ -5,7 +5,7 @@ This repository includes code that can be used to interact with the devices in y
 |||
 |--|--|
 | [2x16 LCD Display](./2x16-lcd-display) | <img src = "https://cdn-shop.adafruit.com/970x728/398-11.jpg" width = 150>  |
-|[4x3 keypad](./4x3_keypad)| <img src = "https://cdn-shop.adafruit.com/970x728/3845-00.jpg" width = 150> |
+|[4x3 keypad](./4x3-keypad)| <img src = "https://cdn-shop.adafruit.com/970x728/3845-00.jpg" width = 150> |
 |[Envirophat Light, Temperature, Pressure, Acceleration Sensor](./envirophat)|<img src = "https://cdn-shop.adafruit.com/970x728/3194-00.jpg" width = 150>|
 |[HC-SRO4 Ultrasonic Transceiver](./ultrasonic)|<img src = "https://cdn-shop.adafruit.com/970x728/4007-00.jpg" width = 150>|
 
