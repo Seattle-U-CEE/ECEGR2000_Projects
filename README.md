@@ -19,6 +19,7 @@ This repository includes code that can be used to interact with the devices in y
 |1x5 Matrix Array 5 Key Membrane Keypad|<img src = "https://m.media-amazon.com/images/I/41W4aLRbgaL._SX522_.jpg" width = 150>|
 |Slide Potentiometer<br>Interface using ADS1115|<img src = "https://m.media-amazon.com/images/I/41DPCsSYZpL._SX522_.jpg" width = 150>|
 |Buzzer<br>See [GPIOZero Buzzer Module](https://gpiozero.readthedocs.io/en/stable/api_output.html#buzzer)|<img src = "https://cdn-shop.adafruit.com/970x728/160-01.jpg" width = 150>|
+|IR Obstacle Avoidance Sensor<br>See [Datasheet](https://cdn.instructables.com/ORIG/FW9/SBS0/J3EPQTB8/FW9SBS0J3EPQTB8.pdf)|<img src = "https://einstronic.com/wp-content/uploads/2020/11/MH-infrared-Obstacle-Sensor-Module-1.jpg" width = 150>|
 
 ### Devices that are available upon request include:
 |||
