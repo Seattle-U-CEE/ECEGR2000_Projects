@@ -4,8 +4,11 @@
 # 7 GPIO pins on the Raspberry Pi. Pins may be changed on instantiation
 #
 # Author: Eddy Ferre - ferree@seattleu.edu
+
 #
 #
+###
+
 
 import gpiozero as GPIO
 from threading import Thread
