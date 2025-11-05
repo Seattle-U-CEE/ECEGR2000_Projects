@@ -33,6 +33,7 @@ This repository includes code that can be used to interact with the devices in y
 |Honewell HPMA115S0 Particulate Sensor|<img src = "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/1/300/307/184/MFG_HPMA115SO-XXX_sml.jpg" width = 150> |
 |Pololu DRV8838 Motor Driver|<img src = "https://a.pololu-files.com/picture/0J5750.600x480.jpg?89d99042898e5c76047944f516d0b9d4" width = 150> |
 |Various Small DC Motors and Pumps|<img src = "https://m.media-amazon.com/images/I/616oLIvsHJL._AC_SX679_.jpg" width = 150> |
+|Light Sensitive Resistors|<img src = "https://m.media-amazon.com/images/I/51xWHNt2qKL._SX342_SY445_QL70_FMwebp_.jpg" width = 150> |
 
 
 
