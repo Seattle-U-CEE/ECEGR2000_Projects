@@ -24,6 +24,7 @@ This repository includes code that can be used to interact with the devices in y
 ### Devices that are available upon request include:
 |||
 |--|--|
+|Passive Infrared Sensor (PIR Sensor)<br>See [Adafruit PIR Tutorial](https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/connecting-to-a-pir)|<img src = "https://cdn-learn.adafruit.com/assets/assets/000/013/840/large1024/proximity_189_LRG.jpg?1390948374" width = 150> |
 |DS11B20 Waterproof Temperature Sensor<br>See [Adafruit DS18B20 Tutorial](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-11-ds18b20-temperature-sensing/hardware)|<img src = "https://cdn-shop.adafruit.com/970x728/381-01.jpg" width = 150> |
 |WS2811 Programmable lights<br>See [Adafruit NeoPixel Library](https://learn.adafruit.com/circuitpython-neopixels-using-spi)|<img src = "https://m.media-amazon.com/images/I/81hlHucxXHL._AC_SX679_.jpg" width = 150> |
 |MS5803 Submersible Pressure Sensor<br>SEE [MS5803 Library here](https://github.com/NickCrews/ms5803py)|<img src = "https://github.com/jwlauer/CTD/raw/master/hardware/MS5803/MS5803_board.PNG" width = 150> |
