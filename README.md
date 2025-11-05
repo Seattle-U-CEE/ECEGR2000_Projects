@@ -13,7 +13,7 @@ This repository includes code that can be used to interact with the devices in y
 ### Other devices in the kit for which you can easily find example python code with a quick web search include:
 |||
 |--|--|
-|ADS 1115 Analog to Digital Converter<br>This can be used to measure voltage/resistance from analog sensors<br>see [Adafruit library/tutorial for ADS1115](https://learn.adafruit.com/raspberry-pi-analog-to-digital-converters/ads1015-slash-ads1115)<br>Useful for interfacing w/ LDRs, Flex Sensors, and Force Sensitive Resistors|<img src = "https://m.media-amazon.com/images/I/71h+u3Mg9SL._SX522_.jpg" width = 150>|
+|ADS 1115 Analog to Digital Converter<br>This can be used to measure voltage/resistance from analog sensors<br>see [Adafruit library/tutorial for ADS1115](https://learn.adafruit.com/raspberry-pi-analog-to-digital-converters/ads1015-slash-ads1115) or [this tutorial](https://how2electronics.com/how-to-use-ads1115-16-bit-adc-module-with-raspberry-pi/).<br>Useful for interfacing w/ LDRs, Flex Sensors, and Force Sensitive Resistors|<img src = "https://m.media-amazon.com/images/I/71h+u3Mg9SL._SX522_.jpg" width = 150>|
 |INA219 DC Current Monitor<br>See [Adafruit INA219 Guide](https://learn.adafruit.com/adafruit-ina219-current-sensor-breakout/python-circuitpython)|<img src = "https://cdn-shop.adafruit.com/970x728/904-09.jpg" width = 150>|
 |Membrane 1x4 keypad<br>See [Adafruit Matrix Keyboard Guide](https://learn.adafruit.com/matrix-keypad/pinouts)|<img src = "https://cdn-shop.adafruit.com/970x728/1332-00.jpg" width = 150>|
 |1x5 Matrix Array 5 Key Membrane Keypad|<img src = "https://m.media-amazon.com/images/I/41W4aLRbgaL._SX522_.jpg" width = 150>|
